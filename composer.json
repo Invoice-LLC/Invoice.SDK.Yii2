@@ -1,0 +1,15 @@
+{
+  "name": "invoice-llc/payment-yii2",
+  "type": "library",
+  "description": "Invoice Payment Module",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "invoice\\payment\\": "src/"
+    }
+  },
+
+  "license": "MIT"
+}
